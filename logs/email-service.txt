@@ -25,3 +25,4 @@
 21:08:10 | duration=146751
 21:08:14 | flag=8083
 21:08:17 | job_uuid=f70622f81d5bf5e57fbe2ce52aaa074b9cb3ff7798de8e0a787109bfc5aba13e
+22:08:10 | duration=842733
