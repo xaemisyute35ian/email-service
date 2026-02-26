@@ -211,3 +211,4 @@
 11:08:09 | duration=135955
 11:08:10 | flag=4600
 11:08:14 | job_uuid=1d1a4939af0d659eaf1e03a197cda2a1df4238a63b73fca1bfc7cb7267dc4e0a
+12:08:08 | duration=646725
